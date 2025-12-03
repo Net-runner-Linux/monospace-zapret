@@ -1,0 +1,130 @@
+cloudflare-ech.com
+encryptedsni.com
+cloudflareaccess.com
+cloudflareapps.com
+cloudflarebolt.com
+cloudflareclient.com
+cloudflareinsights.com
+cloudflareok.com
+cloudflarepartners.com
+cloudflareportal.com
+cloudflarepreview.com
+cloudflareresolve.com
+cloudflaressl.com
+cloudflarestatus.com
+cloudflarestorage.com
+cloudflarestream.com
+cloudflaretest.com
+dis.gd
+discord-attachments-uploads-prd.storage.googleapis.com
+discord.app
+discord.co
+discord.com
+discord.design
+discord.dev
+discord.gift
+discord.gifts
+discord.gg
+discord.media
+discord.new
+discord.store
+discord.status
+discord-activities.com
+discordactivities.com
+discordapp.com
+discordapp.net
+discordcdn.com
+discordmerch.com
+discordpartygames.com
+discordsays.com
+discordsez.com
+frankerfacez.com
+ffzap.com
+betterttv.net
+7tv.app
+7tv.io
+cdn.modrinth.com
+modrinth.com
+23.173.192.0/24
+141.193.3.0/24
+204.9.184.0/24
+205.201.62.0/24
+204.13.168.0/24
+204.13.169.0/24
+204.13.170.0/24
+204.13.171.0/24
+204.13.172.0/24
+204.13.173.0/24
+103.140.28.0/23
+209.206.40.0/21
+rbx.com
+rbxcdn.com
+roblox-api.arkoselabs.co
+roblox.com
+www.roblox.com
+robloxlabs.com
+dlusuk07s6td74.cloudfront.net
+roblox-load-generator-configuration.s3.us-east-2.amazonaws.com
+roblox-poc.global.ssl.fastly.net
+robloxcorp.s.llowi.net
+edge.forgecdn.net
+maven.minecraftforge.net
+curseforge.com
+www.curseforge.com
+osu.ppy.sh
+irc.ppy.sh
+cho.ppy.sh
+c.ppy.sh
+c1.ppy.sh
+c2.ppy.sh
+c3.ppy.sh
+c4.ppy.sh
+c5.ppy.sh
+c6.ppy.sh
+ce.ppy.sh
+a.ppy.sh
+s.ppy.sh
+i.ppy.sh
+bm6.ppy.sh
+bm10.ppy.sh
+104.17.147.22 bm4.ppy.sh
+104.17.147.22 bm5.ppy.sh
+104.17.147.22 bm6.ppy.sh
+104.17.147.22 bm7.ppy.sh
+104.17.147.22 bm10.ppy.sh
+45.40.145.4 bm4.ppy.sh
+45.40.145.4 bm5.ppy.sh
+45.40.145.4 bm6.ppy.sh
+45.40.145.4 bm7.ppy.sh
+45.40.145.4 bm10.ppy.sh
+34.241.188.84
+12.129.209.68
+213.155.155.233
+182.162.134.1
+166.117.134.156
+166.117.114.163
+2.58.104.1 bm4.ppy.sh
+2.58.104.1 bm5.ppy.sh
+2.58.104.1 bm6.ppy.sh
+2.58.104.1 bm7.ppy.sh
+2.58.104.1 bm10.ppy.sh
+2.58.104.1 m1.ppy.sh
+2.58.104.1 m2.ppy.sh
+2.58.104.1 m3.ppy.sh
+2.58.104.1 osu.ppy.sh
+2.58.104.1 notify.ppy.sh
+2.58.104.1 assets.ppy.sh
+2.58.104.1 a.ppy.sh
+2.58.104.1 b.ppy.sh
+2.58.104.1 c.ppy.sh
+2.58.104.1 i.ppy.sh
+2.58.104.1 s.ppy.sh
+2.58.104.1 auth.ppy.sh
+2.58.104.1 sentry.ppy.sh
+2.58.104.1 auth-files.ppy.sh
+77.223.98.115
+77.223.98.115 spectator.ppy.sh
+
+
+
+
